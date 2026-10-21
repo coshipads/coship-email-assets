@@ -1,0 +1,1 @@
+# coship-email-assets
